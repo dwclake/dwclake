@@ -22,15 +22,15 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
 
 ## Tech Stack
 
-- **Frontend**: React, Redux, TypeScript, HTML, CSS
-- **Backend/Systems**: Bun, Zig, Node
-- **Tools**: Git, Neovim, GitHub
+**Frontend**: React, Redux, TypeScript, HTML, CSS
+**Backend/Systems**: Bun, Zig, Node
+**Tools**: Git, Neovim, GitHub
 
 ## Projects
 
-- **[ruka-lang](https://github.com/ruka-lang)**  
+**[ruka-lang](https://github.com/ruka-lang)**  
   Web-dev centric compiled programming language implemented using Zig.
-- **[solecism](https://github.com/dwclake/solecism.app)**  
+**[solecism](https://github.com/dwclake/solecism.app)**  
   Creative writing app built with Electrobun, Bun, React, and Redux.
 
 ## Contact
