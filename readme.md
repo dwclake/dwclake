@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who loves building modern web apps with ***React*** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
+I'm a third-year Computer Science student, who loves building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
 
 If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
 
