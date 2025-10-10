@@ -7,7 +7,7 @@ I’m a developer passionate about web development and programming language desi
 In my free-time I love photography, songwriting, writing, roadtrips, and chilling with my cats.
 
 <table>
-  <caption>Cat Tax</caption>
+  <caption align="center">Cat Tax</caption>
   <tr>
     <td align="center">
       <strong>Gustave</strong><br>
