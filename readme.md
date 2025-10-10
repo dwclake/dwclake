@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student. I love building modern web apps with ***React*** and ***TypeScript*** and native apps with ***Electron***, and exploring systems programming with ***Zig***.
+I'm a third-year Computer Science student, who loves building modern web apps with ***React*** and ***TypeScript*** and native apps with ***Electron***, and exploring systems programming with ***Zig***.
 
 If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
 
@@ -22,9 +22,12 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
 
 ## Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;***Frontend***: React, Redux, TypeScript, HTML, CSS  
-&nbsp;&nbsp;&nbsp;&nbsp;***Backend/Systems***: Bun, Zig, Node  
-&nbsp;&nbsp;&nbsp;&nbsp;***Tools***: Git, Neovim, GitHub  
+&nbsp;&nbsp;&nbsp;&nbsp;***Frontend***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React, Redux, TypeScript, HTML, CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;***Backend/Systems***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bun, Zig, Node  
+&nbsp;&nbsp;&nbsp;&nbsp;***Tools***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Neovim, GitHub  
 
 ## Projects
 
@@ -35,6 +38,9 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
   
 ## Contact
 
-&nbsp;&nbsp;&nbsp;&nbsp;***Email***: clake.dw@gmail.com  
-&nbsp;&nbsp;&nbsp;&nbsp;***GitHub***: [dwclake](https://github.com/dwclake)  
-&nbsp;&nbsp;&nbsp;&nbsp;***LinkedIn***: [dwclake](https://www.linkedin.com/in/dwclake/)
+&nbsp;&nbsp;&nbsp;&nbsp;***Email***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clake.dw@gmail.com   
+&nbsp;&nbsp;&nbsp;&nbsp;***GitHub***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://github.com/dwclake)   
+&nbsp;&nbsp;&nbsp;&nbsp;***LinkedIn***:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://www.linkedin.com/in/dwclake/)  
