@@ -2,9 +2,9 @@
 
 ## About Me
 
-I’m passionate about web development and programming language design. I love building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
+I'm a third-year Computer Science student. I love building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
 
-In my free-time I love photography, songwriting, writing, roadtrips, and chilling with my cats.
+If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
 
 <table>
   <caption>Cat Tax</caption>
@@ -23,13 +23,13 @@ In my free-time I love photography, songwriting, writing, roadtrips, and chillin
 ## Tech Stack
 
 - **Frontend**: React, Redux, TypeScript, HTML, CSS
-- **Backend/Systems**: Bun, Zig
+- **Backend/Systems**: Bun, Zig, Node
 - **Tools**: Git, Neovim, GitHub
 
 ## Projects
 
 - **[ruka-lang](https://github.com/ruka-lang)**  
-  Web-dev focused compiled programming language implemented using Zig.
+  Web-dev centric compiled programming language implemented using Zig.
 - **[solecism](https://github.com/dwclake/solecism.app)**  
   Creative writing app built with Electrobun, Bun, React, and Redux.
 
