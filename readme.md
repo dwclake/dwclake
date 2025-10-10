@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who loves building modern web apps with ***React*** and ***TypeScript*** and native apps with ***Electron***, and exploring systems programming with ***Zig***.
+I'm a third-year Computer Science student, who loves building modern web apps with ***React*** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
 
 If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
 
 <table>
-  <caption>Paying my Cat Tax</caption>
+  <caption>Paying my **Cat Tax**</caption>
   <tr>
     <td align="center">
       <strong>Gustave</strong><br>
@@ -22,25 +22,25 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
 
 ## Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;***Frontend***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**Frontend**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React, Redux, TypeScript, HTML, CSS  
-&nbsp;&nbsp;&nbsp;&nbsp;***Backend/Systems***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**Backend/Systems**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bun, Zig, Node  
-&nbsp;&nbsp;&nbsp;&nbsp;***Tools***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**Tools**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Neovim, GitHub  
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;***[ruka-lang](https://github.com/ruka-lang)***    
+&nbsp;&nbsp;&nbsp;&nbsp;**[ruka-lang](https://github.com/ruka-lang)**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web-dev centric compiled programming language implemented using Zig.  
-&nbsp;&nbsp;&nbsp;&nbsp;***[solecism](https://github.com/dwclake/solecism.app)***  
+&nbsp;&nbsp;&nbsp;&nbsp;**[solecism](https://github.com/dwclake/solecism.app)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative writing app built with Electrobun, Bun, React, and Redux.
   
 ## Contact
 
-&nbsp;&nbsp;&nbsp;&nbsp;***Email***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**Email**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clake.dw@gmail.com   
-&nbsp;&nbsp;&nbsp;&nbsp;***GitHub***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**GitHub**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://github.com/dwclake)   
-&nbsp;&nbsp;&nbsp;&nbsp;***LinkedIn***:  
+&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://www.linkedin.com/in/dwclake/)  
