@@ -22,25 +22,19 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
 
 ## Tech Stack
 
-  **Frontend**: React, Redux, TypeScript, HTML, CSS
-  
-  **Backend/Systems**: Bun, Zig, Node
-  
-  **Tools**: Git, Neovim, GitHub
+&nbsp;&nbsp;&nbsp;&nbsp;**Frontend**: React, Redux, TypeScript, HTML, CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;**Backend/Systems**: Bun, Zig, Node  
+&nbsp;&nbsp;&nbsp;&nbsp;**Tools**: Git, Neovim, GitHub  
 
 ## Projects
 
-  **[ruka-lang](https://github.com/ruka-lang)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**[ruka-lang](https://github.com/ruka-lang)**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web-dev centric compiled programming language implemented using Zig.  
+&nbsp;&nbsp;&nbsp;&nbsp;**[solecism](https://github.com/dwclake/solecism.app)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative writing app built with Electrobun, Bun, React, and Redux.
   
-  Web-dev centric compiled programming language implemented using Zig.
-  
-  **[solecism](https://github.com/dwclake/solecism.app)**  
-  
-  Creative writing app built with Electrobun, Bun, React, and Redux.
-  
-
 ## Contact
 
-- **Email**: clake.dw@gmail.com
-- **GitHub**: [dwclake](https://github.com/dwclake)
-- **LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
+&nbsp;&nbsp;&nbsp;&nbsp;**Email**: clake.dw@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;**GitHub**: [dwclake](https://github.com/dwclake)  
+&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
