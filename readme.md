@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a developer passionate about web development and programming language design. I love building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
+I’m passionate about web development and programming language design. I love building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
 
 In my free-time I love photography, songwriting, writing, roadtrips, and chilling with my cats.
 
