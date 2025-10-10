@@ -7,7 +7,7 @@ I'm a third-year Computer Science student, who loves building modern web apps wi
 If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
 
 <table>
-  <caption>Paying my <strong>Cat Tax</strong></caption>
+  <caption><strong>Obligatory Cat Tax</strong></caption>
   <tr>
     <td align="center">
       <strong>Gustave</strong><br>
