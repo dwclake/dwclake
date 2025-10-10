@@ -1,4 +1,4 @@
-# Salut, comment ça va? 🙋‍♂️
+### Salut, comment ça va? 🙋‍♂️
 
 ## About Me
 
@@ -20,20 +20,20 @@ In my free-time I love photography, songwriting, writing, roadtrips, and chillin
   </tr>
 </table>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Redux, TypeScript, HTML, CSS
 - **Backend/Systems**: Bun, Zig
 - **Tools**: Git, Neovim, GitHub
 
-## ✨ Projects
+## Projects
 
 - **[ruka-lang](https://github.com/ruka-lang)** 
   Web-dev focused compiled programming language implemented using Zig.
 - **[solecism](https://github.com/dwclake/solecism.app)**  
   Creative writing app built with Electrobun, Bun, React, and Redux.
 
-## 📞 Contact
+## Contact
 
 - **Email**: clake.dw@gmail.com
 - **GitHub**: [dwclake](https://github.com/dwclake)
