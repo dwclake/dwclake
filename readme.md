@@ -28,7 +28,7 @@ In my free-time I love photography, songwriting, writing, roadtrips, and chillin
 
 ## Projects
 
-- **[ruka-lang](https://github.com/ruka-lang)** 
+- **[ruka-lang](https://github.com/ruka-lang)**  
   Web-dev focused compiled programming language implemented using Zig.
 - **[solecism](https://github.com/dwclake/solecism.app)**  
   Creative writing app built with Electrobun, Bun, React, and Redux.
