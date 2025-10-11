@@ -31,10 +31,9 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[ruka-lang](https://github.com/ruka-lang)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web-dev centric compiled programming language written in Zig. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;**[solecism](https://github.com/dwclake/solecism.app)**  
+&nbsp;&nbsp;&nbsp;&nbsp;**ruka-lang: [link](https://github.com/ruka-lang)**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web-dev centric compiled programming language written in Zig.  
+&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [link](https://github.com/dwclake/solecism.app)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative writing app built with Electrobun, Bun, React, and Redux.
   
 ## Contact
