@@ -4,7 +4,7 @@
 
 I'm a third-year Computer Science student, who loves building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
 
-If I'm not developing I am probably doing photography, songwriting, fiction writing, going on roadtrips, or chilling with my cats.
+If I'm not developing I am probably chilling with my cats, or doing photography, writing songs and stories, going on roadtrips.
 
 <table>
   <caption><strong>Obligatory Cat Tax</strong></caption>
@@ -44,4 +44,4 @@ If I'm not developing I am probably doing photography, songwriting, fiction writ
 &nbsp;&nbsp;&nbsp;&nbsp;**GitHub**:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://github.com/dwclake)   
 &nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://www.linkedin.com/in/dwclake/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://www.linkedin.com/in/dwclake/)
