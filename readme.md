@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who loves building modern web apps with **React** and **TypeScript** and native apps with **Electron**, and exploring systems programming with **Zig**.
+I'm a third-year Computer Science student, who loves building web-apps with **React** and **TypeScript** and native apps with **Electron**; I also enjoy exploring systems programming with **Zig**.
 
 If I'm not developing I am probably chilling with my cats, or doing photography, writing songs and stories, going on roadtrips.
 
@@ -20,28 +20,36 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
   </tr>
 </table>
 
-## Skills
+## Programming Technology Skills
 
-<div align="center">
-  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/></code>
-	<code></code>
-  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/></code>
-  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/></code>
-	<code></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+**Web Development**
+<div align="left">
+  	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/>
+  	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
+</div>
+
+**Systems Programming**
+<div align="left">
+  	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
+</div>
+
+**Tools**
+<div align="left">
+  	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/>
 </div>
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ruka-lang: [link](https://github.com/ruka-lang)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web-dev centric compiled programming language written in Zig.  
-&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [link](https://github.com/dwclake/solecism.app)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative writing app built with Electrobun, Bun, React, and Redux.
+&nbsp;&nbsp;&nbsp;&nbsp;**ruka-lang <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
+- Web development centric compiled programming language written in Zig.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism.app)**   
+- Creative writing app built with Electrobun, Bun, and React.
   
 ## Contact
 
