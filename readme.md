@@ -22,12 +22,9 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 
 ## Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Frontend**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React, Redux, TypeScript, HTML, CSS  
-&nbsp;&nbsp;&nbsp;&nbsp;**Backend/Systems**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bun, Zig, Node  
-&nbsp;&nbsp;&nbsp;&nbsp;**Tools**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, Neovim, GitHub  
+&nbsp;&nbsp;&nbsp;&nbsp;**Frontend**: React, Redux, TypeScript, HTML, CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;**Backend/Systems**: Bun, Zig, Node  
+&nbsp;&nbsp;&nbsp;&nbsp;**Tools**: Git, Neovim, GitHub  
 
 ## Projects
 
@@ -38,9 +35,6 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
   
 ## Contact
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Email**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clake.dw@gmail.com   
-&nbsp;&nbsp;&nbsp;&nbsp;**GitHub**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://github.com/dwclake)   
-&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[dwclake](https://www.linkedin.com/in/dwclake/)
+&nbsp;&nbsp;&nbsp;&nbsp;**Email**: clake.dw@gmail.com   
+&nbsp;&nbsp;&nbsp;&nbsp;**GitHub**: [dwclake](https://github.com/dwclake)   
+&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
