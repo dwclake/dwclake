@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**; I also enjoy exploring systems programming with **Zig**.
+I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**; I also enjoy exploring lower-level programming with **Zig** and **OCaml**.
 
 If I'm not developing I am probably chilling with my cats, or doing photography, writing songs or stories, or going on roadtrips.
 
@@ -30,7 +30,7 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
 </div>
 
-**Systems Programming**
+**Lower-Level Programming**
 <div align="left">
   	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
 	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="OCaml" title="OCaml"/>
