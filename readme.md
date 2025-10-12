@@ -45,7 +45,7 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ruka-lang <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
+&nbsp;&nbsp;&nbsp;&nbsp;**ruka <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
 - Web development centric compiled programming language written in Zig.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism.app)**   
