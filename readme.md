@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**; I also enjoy exploring lower-level programming with **Zig** and **OCaml**.
+I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**/**Electrobun**; I also enjoy exploring lower-level programming with **Zig**.
 
 If I'm not developing I am probably chilling with my cats, or doing photography, writing songs or stories, or going on roadtrips.
 
@@ -26,13 +26,16 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 <div align="left">
   	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/>
+	<img width="35" src="https://raw.githubusercontent.com/blackboardsh/electrobun/refs/heads/main/assets/electrobun-logo-500.png" alt="Electrobun" title="Electrobun"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
 </div>
 
 **Lower-Level Programming**
 <div align="left">
   	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
 	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="OCaml" title="OCaml"/>
 </div>
 
