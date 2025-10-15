@@ -4,7 +4,7 @@
 
 I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**/**Electrobun**; I also enjoy exploring lower-level programming with **Zig**.
 
-If I'm not developing I am probably chilling with my cats, or doing photography, writing songs or stories, or going on roadtrips.
+If I'm not developing I am probably chilling with my cats, or doing photography, writing stories, or going on roadtrips.
 
 <table>
   <caption><strong>Obligatory Cat Tax</strong></caption>
