@@ -52,7 +52,7 @@ If I'm not developing I am probably chilling with my cats, or doing photography,
 - Web development centric compiled programming language written in Zig.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism.app)**   
-- Creative writing app built with Electrobun, Bun, and React.
+- Creative writing app built with Electrobun and React.
   
 ## Contact
 
