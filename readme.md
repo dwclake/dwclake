@@ -28,7 +28,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/>
-	<img width="35" src="https://raw.githubusercontent.com/blackboardsh/electrobun/refs/heads/main/assets/electrobun-logo-500.png" alt="Electrobun" title="Electrobun"/>
+	<!--<img width="35" src="https://raw.githubusercontent.com/blackboardsh/electrobun/refs/heads/main/assets/electrobun-logo-500.png" alt="Electrobun" title="Electrobun"/>-->
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
 </div>
 
@@ -51,7 +51,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 &nbsp;&nbsp;&nbsp;&nbsp;**ruka <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
 - Web development centric compiled programming language written in Zig.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism.app)**   
+&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism)**   
 - Creative writing app built with Electrobun and React.
   
 ## Contact
