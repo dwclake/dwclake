@@ -51,8 +51,11 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 &nbsp;&nbsp;&nbsp;&nbsp;**ruka <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
 - Web development centric compiled programming language written in Zig.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**solecism: [repo](https://github.com/dwclake/solecism)**   
+&nbsp;&nbsp;&nbsp;&nbsp;**solecism : [repo](https://github.com/dwclake/solecism)**   
 - Creative writing app built with Electrobun and React.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**eyeDHD <img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="20"/> : [repo](https://github.com/BernyFranklin/eyeDHD)**     
+- Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively.
   
 ## Contact
 
