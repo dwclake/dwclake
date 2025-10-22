@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**/**Electrobun**; I also enjoy exploring lower-level programming with **Zig**.
+I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**; I also enjoy exploring low-level programming with **Zig**.
 
 If I'm not developing I am probably chilling with my cats or doing photography, writing stories, songwriting, or going on roadtrips.
 
@@ -32,12 +32,14 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
 </div>
 
-**Lower-Level Programming**
+
+**Low-Level Programming**
 <div align="left">
   	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
 </div>
+
 
 **Others**
 <div align="left">
@@ -50,13 +52,13 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 ## Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;**ruka <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
-- Compiled programming language written in Zig.  
+Compiled programming language written in Zig.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;**solecism : [repo](https://github.com/dwclake/solecism)**   
-- Creative writing app built with Electron and React.
+Creative writing app built with Electron and React.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**eyeDHD <img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="20"/> : [repo](https://github.com/BernyFranklin/eyeDHD)**     
-- Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively.
+Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively.
   
 ## Contact
 
