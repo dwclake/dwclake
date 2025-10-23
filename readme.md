@@ -54,7 +54,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 &nbsp;&nbsp;&nbsp;&nbsp;**ruka <img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="20"/> : [repo](https://github.com/ruka-lang)**    
 Compiled programming language written in Zig.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**solecism : [repo](https://github.com/dwclake/solecism)**   
+&nbsp;&nbsp;&nbsp;&nbsp;**solecism <img src="https://github.com/dwclake/solecism/blob/473f7428b5c80f0e13f6817b52ff3f8758391af8/assets/icon/solecism.ico" alt="solecism" width="20"/> : [repo](https://github.com/dwclake/solecism)**   
 Creative writing app built with Electron and React.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**eyeDHD <img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="20"/> : [repo](https://github.com/BernyFranklin/eyeDHD)**     
