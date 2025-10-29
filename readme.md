@@ -56,7 +56,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="15"/> **[ruka](https://github.com/ruka-lang)**     
 Procedural programming language written in Zig.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/dwclake/solecism/blob/473f7428b5c80f0e13f6817b52ff3f8758391af8/assets/icon/solecism.ico" alt="solecism" width="15"/> **[solecism](https://github.com/breaching-morel/solecism)**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/dwclake/solecism/blob/473f7428b5c80f0e13f6817b52ff3f8758391af8/assets/icon/solecism.ico" alt="solecism" width="15"/> **[solecism](https://github.com/drag-path/solecism)**   
 WYSIWYG editor for creative projects built with Electron and React.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="15"/> **[eyeDHD](https://github.com/BernyFranklin/eyeDHD)**      
