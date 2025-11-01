@@ -72,7 +72,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 Full-stack programming language, targeting arm64, wasm, and javascript; written in Zig.
 
 <img src="https://github.com/dwclake/solecism/blob/473f7428b5c80f0e13f6817b52ff3f8758391af8/assets/icon/solecism.ico" alt="solecism" width="35"/> **[solecism](https://github.com/drag-path/solecism)**   
-WYSIWYG editor for creative projects, hopefully one part of an open-source creative software suite; built with Typescript and React.
+WYSIWYG editor for creative projects, hopefully one part of an open-source creative software suite.
 
 <img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="35"/> **[eyeDHD](https://github.com/BernyFranklin/eyeDHD)**      
 Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively; built with Electron and React.
