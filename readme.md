@@ -25,8 +25,9 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Web Development**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=ts,sass,react,tailwind,bun&perline=5)
+![Web-dev](https://skillicons.dev/icons?i=ts,sass,bun,react,electron&perline=5)
   	<!--
+	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron&perline=5)
 	![Web-dev](https://skillicons.dev/icons?i=ts,react,redux,sass,tailwind,bun,sqlite,electron&perline=4)
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
