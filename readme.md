@@ -1,10 +1,12 @@
 ### Salut, comment ça va? 🙋‍♂️
 
+<!--
 ## About Me
 
 I'm a third-year Computer Science student, who aspires to be a professional software engineer. I love building web apps with **React**, **TypeScript** and **Bun** and building native apps with **Electron**; I also enjoy exploring low-level programming with **Zig**.
 
 If I'm not developing I am probably chilling with my cats or doing photography, writing stories, songwriting, or going on roadtrips.
+-->
 
 <table>
   <caption><strong>Obligatory Cat Tax</strong></caption>
@@ -25,7 +27,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Web Development**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron,sqlite&perline=5)
+![Web-dev](https://skillicons.dev/icons?i=ts,svelte,react,electron&perline=5)
   	<!--
 	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron&perline=5)
 	![Web-dev](https://skillicons.dev/icons?i=ts,react,redux,sass,tailwind,bun,sqlite,electron&perline=4)
@@ -45,7 +47,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Low-Level Programming**
 <div align="left">    
 	
-![Web-dev](https://skillicons.dev/icons?i=zig,c,wasm)
+![Web-dev](https://skillicons.dev/icons?i=zig,c)
   	<!--
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
