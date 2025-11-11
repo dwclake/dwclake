@@ -27,7 +27,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Web Development**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,react,electron,sqlite&perline=7)
+![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,react,electron,sqlite&perline=7)
   	<!--
 	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron&perline=5)
 	![Web-dev](https://skillicons.dev/icons?i=ts,react,redux,sass,tailwind,bun,sqlite,electron&perline=4)
