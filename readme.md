@@ -47,7 +47,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Low-Level Programming**
 <div align="left">    
 	
-![Web-dev](https://skillicons.dev/icons?i=zig,c)
+![Web-dev](https://skillicons.dev/icons?i=zig,ocaml,c)
   	<!--
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
