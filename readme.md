@@ -83,5 +83,6 @@ Tool for generating eye movement and dilation animations using measurements take
 ## Contact
 
 **Email**: clake.dw@gmail.com   
+**Portfolio**: [www.dwclake.me](https://www.dwclake.me)   
 **GitHub**: [dwclake](https://github.com/dwclake)   
 **LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
