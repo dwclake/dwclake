@@ -71,13 +71,13 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 
 ## Projects
 
-<img src="https://github.com/ruka-lang/ruka/blob/main/branding/png/ruka-green-transparent.png" alt="ruka" width="35"/> **[ruka](https://github.com/ruka-lang)**     
+<img src="https://github.com/dwclake/dwclake.me/blob/e047cf5b51e995c8943ef5c9123c73e1bafadeb3/src/lib/assets/images/projects/ruka/logo.svg" alt="ruka" width="35"/> **[ruka](https://github.com/ruka-lang)**     
 Full-stack programming language, targeting arm64, wasm, and javascript; written in Zig.
 
-<img src="https://github.com/oldies-station/.github/blob/d93539086fbaa6640ce6cf9e86e220b4b21932d8/assets/oldies-station-transparent.svg" alt="solecism" width="35"/> **[solecism](https://github.com/oldies-station/solecism)**   
+<img src="https://github.com/dwclake/dwclake.me/blob/e047cf5b51e995c8943ef5c9123c73e1bafadeb3/src/lib/assets/images/projects/oldies-station/logo.svg" alt="solecism" width="35"/> **[solecism](https://github.com/oldies-station/solecism)**   
 WYSIWYG editor for creative projects, hopefully one part of an open-source creative software suite; built with Electron and React.
 
-<img src="https://github.com/BernyFranklin/eyeDHD/blob/cc0faf2e70cf93249050621d689dbbe727847528/assets/eyedhd-logo.png" alt="eyeDHD" width="35"/> **[eyeDHD](https://github.com/BernyFranklin/eyeDHD)**      
+<img src="https://github.com/dwclake/dwclake.me/blob/e047cf5b51e995c8943ef5c9123c73e1bafadeb3/src/lib/assets/images/projects/eyeDHD/logo.svg" alt="eyeDHD" width="35"/> **[eyeDHD](https://github.com/BernyFranklin/eyeDHD)**      
 Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively; built with Electron and React.
   
 ## Contact
