@@ -27,8 +27,9 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Web Development**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,react,electron,sqlite&perline=7)
+![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,bun,sqlite,react,electron,elixir&perline=5)
   	<!--
+	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,bun,htmx,go,elixir,electron,solidjs,react,postgres,sqlite&perline=6)
 	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron&perline=5)
 	![Web-dev](https://skillicons.dev/icons?i=ts,react,redux,sass,tailwind,bun,sqlite,electron&perline=4)
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
@@ -47,7 +48,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
 **Low-Level Programming**
 <div align="left">    
 	
-![Web-dev](https://skillicons.dev/icons?i=zig,ocaml,c)
+![Web-dev](https://skillicons.dev/icons?i=zig,c,ocaml)
   	<!--
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
