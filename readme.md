@@ -22,52 +22,26 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
   </tr>
 </table>
 
+## Check out my [portfolio](https://www.dwclake.me)
+
 ## Programming Technology Skills
 
 **Web Development**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,react,electron,sqlite&perline=6)
-  	<!--
-	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,bun,htmx,go,elixir,electron,solidjs,react,postgres,sqlite&perline=6)
-	![Web-dev](https://skillicons.dev/icons?i=ts,svelte,sass,tailwind,bun,react,electron&perline=5)
-	![Web-dev](https://skillicons.dev/icons?i=ts,react,redux,sass,tailwind,bun,sqlite,electron&perline=4)
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webassembly.png" alt="WebAssembly" title="WebAssembly"/>-
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/>
-	<img width="35" src="https://raw.githubusercontent.com/blackboardsh/electrobun/refs/heads/main/assets/electrobun-logo-500.png" alt="Electrobun" title="Electrobun"/>-
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/>
-	-->
+![web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,react,electron,sqlite&perline=6)
 </div>
-
 
 **Low-Level Programming**
-<div align="left">    
+<div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=zig,c,ocaml)
-  	<!--
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png" alt="Zig" title="Zig"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-	-->
+![low-level](https://skillicons.dev/icons?i=zig,c,ocaml)
 </div>
-
 
 **Others**
 <div align="left">
 	
-![Web-dev](https://skillicons.dev/icons?i=git,github,linux)
-	<!--
-	![Web-dev](https://skillicons.dev/icons?i=ocaml,elixir,git,github)
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" alt="OCaml" title="OCaml"/>
-	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" title="Elixir" />
-  	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-	-->
+![others](https://skillicons.dev/icons?i=git,github,linux)
 </div>
 
 ## Projects
@@ -83,7 +57,7 @@ Tool for generating eye movement and dilation animations using measurements take
   
 ## Contact
 
-**Email**: clake.dw@gmail.com   
-**Portfolio**: [www.dwclake.me](https://www.dwclake.me)   
+**Email**: clake.dw@gmail.com    
+**Edu Email**: dwebb559@mail.fresnostate.edu    
 **GitHub**: [dwclake](https://github.com/dwclake)   
 **LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
