@@ -22,7 +22,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
   </tr>
 </table>
 
-## Check out my [portfolio](https://www.dwclake.me)
+Check out my [portfolio](https://www.dwclake.me)
 
 ## Programming Technology Skills
 
@@ -58,6 +58,5 @@ Tool for generating eye movement and dilation animations using measurements take
 ## Contact
 
 **Email**: [clake.dw@gmail.com](mailto:clake.dw@gmail.com)    
-**Edu Email**: [dwebb559@mail.fresnostate.edu](mailto:dwebb559@mail.fresnostate.edu)    
-**GitHub**: [dwclake](https://github.com/dwclake)   
+**Edu Email**: [dwebb559@mail.fresnostate.edu](mailto:dwebb559@mail.fresnostate.edu)      
 **LinkedIn**: [dwclake](https://www.linkedin.com/in/dwclake/)
