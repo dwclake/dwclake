@@ -22,7 +22,7 @@ If I'm not developing I am probably chilling with my cats or doing photography, 
   </tr>
 </table>
 
-Check out my [portfolio](https://portfolio.dwclake.me)
+Check out my [portfolio](https://about.dwclake.me)
 
 ## Programming Technology Skills
 
