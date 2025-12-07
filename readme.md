@@ -29,7 +29,7 @@ Check out my [portfolio](https://about.dwclake.me)
 **Web Development**
 <div align="left">
 	
-![web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,solidjs,react,electron,sqlite&perline=6)
+![web-dev](https://skillicons.dev/icons?i=ts,svelte,tailwind,solidjs,electron,sqlite&perline=6)
 </div>
 
 **Low-Level Programming**
