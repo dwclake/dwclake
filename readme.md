@@ -48,10 +48,10 @@ Check out my [portfolio](https://about.dwclake.me)
 
 <img src="https://github.com/dwclake/dwclake.me/blob/e047cf5b51e995c8943ef5c9123c73e1bafadeb3/src/lib/assets/images/projects/ruka/logo.svg" alt="ruka" width="35"/> **[ruka](https://github.com/ruka-lang)**     
 Full-stack programming language, targeting arm64, wasm, and javascript; written in Zig.
-
+<!--
 <img src="https://github.com/dwclake/dwclake.me/blob/64e77a7dc7df1020d984018445d0db2c535f37f2/src/lib/assets/images/projects/oldies-station/logo.svg" alt="solecism" width="35"/> **[solecism](https://github.com/dwclake/solecism)**   
 WYSIWYG editor for creative projects, hopefully one part of an open-source creative software suite; built with Electrobun and Solidjs.    
-
+-->
 <img src="https://github.com/dwclake/dwclake.me/blob/e047cf5b51e995c8943ef5c9123c73e1bafadeb3/src/lib/assets/images/projects/eyeDHD/logo.svg" alt="eyeDHD" width="35"/> **[eyeDHD](https://github.com/BernyFranklin/eyeDHD)**      
 Tool for generating eye movement and dilation animations using measurements taken by the Fresno State Psychology department during their research striving to diagnose ADHD quantitatively; built with Electron and React.
   
